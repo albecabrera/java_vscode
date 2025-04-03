@@ -9,6 +9,13 @@
             "name": "Main",
             "request": "launch",
             "mainClass": "paquetePruebas.Main",
+            "projectName": "java_vscode_eb7db656"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "paquetePruebas.Main",
             "projectName": "java_vscode_855d8d60"
         },
         {

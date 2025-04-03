@@ -7,14 +7,7 @@ public class Main {
         System.out.println();
         System.out.println("Hola Lalo");
         System.out.println("Idiota");
-        papafeo();
+        System.out.println("Hola Lalo");
 
-    }
-    public static void papafeo(){
-        int feo = 1;
-        for (int i = 1; i < 100; i++) {
-            feo = feo+1;
-            System.out.println("Papa gordo "+feo+" kilogramos.");
-        }
     }
 }
