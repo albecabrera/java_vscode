@@ -17,7 +17,7 @@ public class SumaNumeros {
             // Imprimimos el resultado
             System.out.println(resultado);
             // Hacemos una nueva suma con el valor obtenido de la anterior
-            resultado = suma1.suma(resultado, 10);
+            resultado = suma1.suma(resultado,  10);
             // Imprimimos el nuevo resultado
             System.out.println(resultado);
         }
