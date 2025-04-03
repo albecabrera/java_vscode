@@ -1,9 +1,9 @@
 package paquetePruebas;
 
 public class Usuario {
-    String nombre = "Alberto";
-    String apellido = "Cabrera";
-    int edad = 25;
+    public String nombre = "Alberto";
+    public String apellido = "Cabrera";
+    public int edad = 28;
      
 
     public Usuario(String nombre, String apellido, int edad) {
